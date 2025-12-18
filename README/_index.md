@@ -1,5 +1,6 @@
 ---
 title: Fastify App Example
+order: 3
 ---
 
 This project is a small but feature complete application build with Fastify and Svelte, and it aims to show all the core concepts of Fastify, best practices, and recommendations.
