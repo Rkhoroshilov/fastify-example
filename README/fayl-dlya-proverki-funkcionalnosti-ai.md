@@ -1,10 +1,4 @@
 ---
 order: 1
-title: Файл для проверки функциональности ai-редактора
 ---
 
-ffsfsa
-
-fdsfsdf
-
-fdsfsd
